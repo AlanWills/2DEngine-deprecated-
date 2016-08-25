@@ -1,0 +1,121 @@
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame\2DEngine\bin\Windows\Debug\2DEngine.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame\2DEngine\bin\Windows\Debug\2DEngine.pdb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame\2DEngine\bin\Windows\Debug\2DEngineData.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame\2DEngine\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame\2DEngine\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame\2DEngine\bin\Windows\Debug\SharpDX.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame\2DEngine\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame\2DEngine\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame\2DEngine\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame\2DEngine\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame\2DEngine\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame\2DEngine\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame\2DEngine\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame\2DEngine\bin\Windows\Debug\2DEngineData.pdb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame\2DEngine\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame\2DEngine\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame\2DEngine\bin\Windows\Debug\SharpDX.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame\2DEngine\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame\2DEngine\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame\2DEngine\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame\2DEngine\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame\2DEngine\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame\2DEngine\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame\2DEngine\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame\2DEngine\obj\x86\Debug\2DEngine.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame\2DEngine\obj\x86\Debug\2DEngine.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame\2DEngine\obj\x86\Debug\2DEngine.pdb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\2DEngine.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\2DEngine.pdb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\2DEngineData.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\SharpDX.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\2DEngineData.pdb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\SharpDX.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\obj\x86\Debug\2DEngine.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\obj\x86\Debug\2DEngine.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\obj\x86\Debug\2DEngine.pdb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\Required Content\Effects\LightEffect.fx
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\Required Content\Screens\LoadingScreen.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\Required Content\Screens\MainMenuScreen.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\Required Content\Screens\OptionsScreen.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\Required Content\Screens\StartupLogoScreen.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\Required Content\SFX\UI\ButtonHover.wav
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\Required Content\SFX\UI\ButtonPressedSound.wav
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\Required Content\Sprites\UI\BarBackground.png
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\Required Content\Sprites\UI\BlueSliderDown.png
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\Required Content\Sprites\UI\Button.png
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\Required Content\Sprites\UI\ButtonHighlighted.png
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\Required Content\Sprites\UI\Cursor.png
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\Required Content\Sprites\UI\EmptyPanelBackground.png
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\Required Content\Sprites\UI\Logo.png
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\Required Content\Sprites\UI\Menu.png
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\Required Content\Sprites\UI\NarrowButton.png
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\Required Content\Sprites\UI\NarrowButtonHighlighted.png
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\Required Content\Sprites\UI\SliderBar.png
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\Required Content\Sprites\UI\TextEntryBox.png
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\2DEngine\2DEngine\bin\Windows\Debug\Required Content\SpriteFonts\DefaultSpriteFont.spritefont
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\Required Content\Effects\LightEffect.fx
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\Required Content\Screens\LoadingScreen.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\Required Content\Screens\MainMenuScreen.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\Required Content\Screens\OptionsScreen.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\Required Content\Screens\StartupLogoScreen.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\Required Content\SFX\UI\ButtonHover.wav
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\Required Content\SFX\UI\ButtonPressedSound.wav
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\Required Content\Sprites\UI\BarBackground.png
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\Required Content\Sprites\UI\BlueSliderDown.png
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\Required Content\Sprites\UI\Button.png
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\Required Content\Sprites\UI\ButtonHighlighted.png
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\Required Content\Sprites\UI\Cursor.png
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\Required Content\Sprites\UI\EmptyPanelBackground.png
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\Required Content\Sprites\UI\Logo.png
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\Required Content\Sprites\UI\Menu.png
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\Required Content\Sprites\UI\NarrowButton.png
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\Required Content\Sprites\UI\NarrowButtonHighlighted.png
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\Required Content\Sprites\UI\SliderBar.png
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\Required Content\Sprites\UI\TextEntryBox.png
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\Required Content\SpriteFonts\DefaultSpriteFont.spritefont
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\2DEngine.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\2DEngine.pdb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\2DEngineData.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\SharpDX.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\2DEngineData.pdb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\SharpDX.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\obj\x86\Debug\2DEngine.csprojResolveAssemblyReference.cache
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\obj\x86\Debug\2DEngine.dll
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\CelesteEngine\2DEngine\obj\x86\Debug\2DEngine.pdb

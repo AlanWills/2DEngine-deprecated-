@@ -1,0 +1,12 @@
+﻿<XnaContent>
+  <Asset Type="_2DEngineData.BaseScreenData">
+    <BackgroundTextureAsset/>
+    <Music>
+      <Item>Gameplay\AngularMomentum</Item>
+      <Item>Gameplay\BlindingLights</Item>
+      <Item>Gameplay\HorrorOfSelf</Item>
+      <Item>Gameplay\Mechanolith</Item>
+      <Item>Gameplay\RidingTheAuroraBorealis</Item>
+    </Music>
+  </Asset>
+</XnaContent>

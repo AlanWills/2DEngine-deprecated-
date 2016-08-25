@@ -1,0 +1,10 @@
+﻿<XnaContent>
+  <Asset Type="_2DEngineData.BaseScreenData">
+    <BackgroundTextureAsset/>
+    <Music>
+      <Item>Menu\Emotional</Item>
+      <Item>Menu\HerVioletEyes</Item>
+      <Item>Menu\SoftBeat</Item>
+    </Music>
+  </Asset>
+</XnaContent>
